@@ -1,0 +1,8 @@
+{
+  "name": "ci-cd_setup",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  }
+}
